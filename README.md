@@ -1,0 +1,1 @@
+Display Menu Items and unique categories. When a category is selected display only that category.
